@@ -1,6 +1,7 @@
 // Problem : Find the largest number from the given 3 numbers
 
 import java.util.*;
+
 public class Largestnum {
     public static void main(String[] args) {
         int a ,b,c;
@@ -29,5 +30,6 @@ public class Largestnum {
         // }
         int max = Math.max(c,Math.max(a,b));
         System.out.println("Largest number is : " +max);
+        ac.close();
     }
 }

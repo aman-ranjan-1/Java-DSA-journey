@@ -12,5 +12,6 @@ public class Sum2 {
         b = sc.nextInt();
         sum = a+b;
         System.out.println("Added number is : "+sum);
+        sc.close();
     }
 }
