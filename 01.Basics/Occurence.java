@@ -9,7 +9,7 @@ public class Occurence {
         int num , value ;
         System.out.println("Enter any number : ");
         num = sc.nextInt();
-        System.out.print("Enter a digit to count (counting Occurence)");
+        System.out.print("Enter a digit to count (counting Occurence): ");
         value = sc.nextInt();
         int count = 0;
         while (num!=0){
