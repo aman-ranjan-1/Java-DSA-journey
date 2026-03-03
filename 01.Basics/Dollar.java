@@ -9,5 +9,7 @@ public class Dollar {
         rup = in.nextFloat();
         dol =( rup * 0.011f);
         System.out.println("Your Currency in dollars $"+dol);
+        in.close();
     }
+    
 }

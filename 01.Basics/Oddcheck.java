@@ -8,6 +8,7 @@ public class Oddcheck {
         System.out.println();
         System.out.println("ENTER A NUMBER : ");
         int num = in.nextInt();
+        in.close();
         if(num%2 == 0){
             System.out.println("Even Number");
         }

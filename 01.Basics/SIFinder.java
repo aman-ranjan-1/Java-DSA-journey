@@ -14,5 +14,6 @@ public class SIFinder {
         
         SI = (p*r*t)/100;
         System.out.print("Simple Interest is "+SI);
+        in.close();
     }
 }

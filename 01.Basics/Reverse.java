@@ -13,5 +13,6 @@ public class Reverse {
             num=num/10;
         }
         System.out.println("Reverse of the num is "+ans);
+        sc.close();
     }
 }

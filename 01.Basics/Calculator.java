@@ -45,5 +45,6 @@ public class Calculator {
             }
             System.out.println("Answer is "+ans);
         }
+        sc.close();
     }
 }

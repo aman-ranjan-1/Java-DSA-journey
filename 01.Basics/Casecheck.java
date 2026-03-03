@@ -13,5 +13,6 @@ public class Casecheck {
         else{
             System.out.println("UPPERCASE LETTER");
         }
+        ac.close();
     }
 }

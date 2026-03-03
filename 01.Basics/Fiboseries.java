@@ -16,5 +16,6 @@ public class Fiboseries {
         }
         System.out.print("The value at "+n);
         System.out.print(" index is "+b);
+        sc.close();
     }
 }

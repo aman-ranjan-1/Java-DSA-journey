@@ -20,5 +20,6 @@ public class Occurence {
             num = num/10;
         }
         System.out.println("No. of times digit occuring :"+count);
+        sc.close();
     }
 }

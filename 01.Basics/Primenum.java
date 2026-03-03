@@ -9,6 +9,7 @@ public class Primenum {
         int n = in.nextInt();
         boolean ans = isPrime(n);
         System.out.println(ans);
+        in.close();
     }
     static boolean isPrime(int n){
         if (n <= 1){
