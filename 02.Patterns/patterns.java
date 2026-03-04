@@ -5,7 +5,14 @@
 
 public class patterns {
     public static void main(String[] args) {
-        pattern7(5);         // call any pattern :)
+        basicpattern(5);         // call any pattern :)
+    }
+    // basic pattern - * * * * *
+
+    public static void basicpattern(int n){
+        for(int i = 0;i<n;i++){
+            System.out.print("* ");
+        }
     }
     // pattern 3 
 
