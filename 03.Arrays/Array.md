@@ -5,3 +5,7 @@ Array problems solved -
 3. To print the maximum element of the array take input from user.
 4. To Reverse elements of array
 5. Subarrays of Array
+6. 2D Array 
+7. Transpose of a Matrix
+8. Even and Odd Count
+9. 
